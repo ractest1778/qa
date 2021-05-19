@@ -1,0 +1,20 @@
+<joblist>
+  <job>
+    <defaultTab>nodes</defaultTab>
+    <description></description>
+    <executionEnabled>true</executionEnabled>
+    <id>5bce6900-86e8-494c-a4c3-48c0a78fd256</id>
+    <loglevel>INFO</loglevel>
+    <name>JobTEST4</name>
+    <nodeFilterEditable>false</nodeFilterEditable>
+    <plugins />
+    <scheduleEnabled>true</scheduleEnabled>
+    <schedules />
+    <sequence keepgoing='false' strategy='node-first'>
+      <command>
+        <exec>whoami</exec>
+      </command>
+    </sequence>
+    <uuid>5bce6900-86e8-494c-a4c3-48c0a78fd256</uuid>
+  </job>
+</joblist>
