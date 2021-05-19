@@ -3,9 +3,9 @@
     <defaultTab>nodes</defaultTab>
     <description></description>
     <executionEnabled>true</executionEnabled>
-    <id>d56a79cd-8d40-4e5d-b0f8-7a8d62483989</id>
+    <id>14c5e635-4c16-453a-b352-a57b31910037</id>
     <loglevel>INFO</loglevel>
-    <name>HelloWorld</name>
+    <name>Job TEST6 Renamed</name>
     <nodeFilterEditable>false</nodeFilterEditable>
     <plugins />
     <scheduleEnabled>true</scheduleEnabled>
@@ -15,6 +15,6 @@
         <exec>whoami</exec>
       </command>
     </sequence>
-    <uuid>d56a79cd-8d40-4e5d-b0f8-7a8d62483989</uuid>
+    <uuid>14c5e635-4c16-453a-b352-a57b31910037</uuid>
   </job>
 </joblist>

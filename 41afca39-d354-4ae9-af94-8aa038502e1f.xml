@@ -1,7 +1,7 @@
 <joblist>
   <job>
     <defaultTab>nodes</defaultTab>
-    <description>change from b2</description>
+    <description></description>
     <executionEnabled>true</executionEnabled>
     <id>41afca39-d354-4ae9-af94-8aa038502e1f</id>
     <loglevel>INFO</loglevel>
