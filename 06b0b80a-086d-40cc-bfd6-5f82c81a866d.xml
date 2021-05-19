@@ -1,0 +1,20 @@
+<joblist>
+  <job>
+    <defaultTab>nodes</defaultTab>
+    <description></description>
+    <executionEnabled>true</executionEnabled>
+    <id>06b0b80a-086d-40cc-bfd6-5f82c81a866d</id>
+    <loglevel>INFO</loglevel>
+    <name>SecondTest6</name>
+    <nodeFilterEditable>false</nodeFilterEditable>
+    <plugins />
+    <scheduleEnabled>true</scheduleEnabled>
+    <schedules />
+    <sequence keepgoing='false' strategy='node-first'>
+      <command>
+        <exec>whoami</exec>
+      </command>
+    </sequence>
+    <uuid>06b0b80a-086d-40cc-bfd6-5f82c81a866d</uuid>
+  </job>
+</joblist>
