@@ -1,7 +1,7 @@
 <joblist>
   <job>
     <defaultTab>nodes</defaultTab>
-    <description></description>
+    <description>test 1, commit from B1</description>
     <executionEnabled>true</executionEnabled>
     <id>d56a79cd-8d40-4e5d-b0f8-7a8d62483989</id>
     <loglevel>INFO</loglevel>
