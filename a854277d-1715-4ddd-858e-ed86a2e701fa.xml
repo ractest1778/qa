@@ -1,0 +1,20 @@
+<joblist>
+  <job>
+    <defaultTab>nodes</defaultTab>
+    <description></description>
+    <executionEnabled>true</executionEnabled>
+    <id>a854277d-1715-4ddd-858e-ed86a2e701fa</id>
+    <loglevel>INFO</loglevel>
+    <name>JobTEST8B</name>
+    <nodeFilterEditable>false</nodeFilterEditable>
+    <plugins />
+    <scheduleEnabled>true</scheduleEnabled>
+    <schedules />
+    <sequence keepgoing='false' strategy='node-first'>
+      <command>
+        <exec>ls</exec>
+      </command>
+    </sequence>
+    <uuid>a854277d-1715-4ddd-858e-ed86a2e701fa</uuid>
+  </job>
+</joblist>
